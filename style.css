@@ -35,27 +35,27 @@ button, button :focus {
 }
 
 .color-primary {
-  color: #AC3B61;
+  color: #2ccf6d;
 }
 
 .color-primary-bg {
-  background: #AC3B61;
+  background: #2ccf6d;
 }
 
-.color-secondary {
+.color-gray {
   color: #BAB2B5;
 }
 
-.color-secondary-bg {
+.color-gray-bg {
   background: #BAB2B5;
 }
 
-.color-sencond {
-  color: #EDC7B7;
+.color-second {
+  color: #0e0620;
 }
 
-.color-sencond-bg {
-  background: #EDC7B7;
+.color-second-bg {
+  background: #0e0620;
 }
 
 .color-bule {
