@@ -1,0 +1,15 @@
+#special-price{
+    .item .product a {
+    
+        overflow: hidden;
+    }
+    
+    .item .product img {
+        transition: transform .5s ease;
+    }
+    
+     .item .product img:hover{
+        transform: scale(1.1);
+    }
+
+}
