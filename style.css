@@ -59,7 +59,11 @@ button, button :focus {
 }
 
 .color-bule {
-  color: #123C69;
+  color: #041b33;
+}
+
+.color-bule-bg {
+  background: #041b33;
 }
 
 .color-yellow {
@@ -80,10 +84,10 @@ button, button :focus {
   top: 30%;
   outline: none;
 }
-#top-sale .owl-carousel .owl-nav button .owl-prev {
+#top-sale .owl-carousel .owl-nav button.owl-prev {
   left: 0;
 }
-#top-sale .owl-carousel .owl-nav button .owl-prev span {
+#top-sale .owl-carousel .owl-nav button.owl-prev span {
   font-size: 35px;
   color: #2ccf6d;
   margin-left: -4rem;
@@ -92,10 +96,6 @@ button, button :focus {
 
 /*# sourceMappingURL=style.css.map */
 
-.color-border-1{
-  background:linear-gradient(90deg, rgba(129,249,235,1) 0%, rgba(10,249,121,1) 28%, rgba(3,234,252,1) 100%);
-}
-
-.color-border-2 {
-  background: linear-gradient(90deg, rgba(0,255,225,1) 0%, rgba(9,249,146,1) 28%, rgba(41,247,127,1) 51%, rgba(6,243,177,1) 71%, rgba(0,234,252,1) 100%);
+.navbar ul li a {
+  color: #fff;
 }

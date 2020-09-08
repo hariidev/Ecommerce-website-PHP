@@ -3,8 +3,8 @@ $(document).ready(function (){
 
 $("#top-sale .owl-carousel").owlCarousel({
     loop:true,
-    dots:true,
     nav:true,
+    dots:false,
     responsive:{
         0:{
             items:1
