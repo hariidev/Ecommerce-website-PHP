@@ -59,11 +59,19 @@ button, button :focus {
 }
 
 .color-bule {
-  color: #041b33;
+  color: #131921;
 }
 
 .color-bule-bg {
-  background: #041b33;
+  background: #131921;
+}
+
+.color-blue-second {
+  color: #232F3E;
+}
+
+.color-blue-second-bg {
+  background: #232F3E;
 }
 
 .color-yellow {
@@ -95,7 +103,3 @@ button, button :focus {
 }
 
 /*# sourceMappingURL=style.css.map */
-
-.navbar ul li a {
-  color: #fff;
-}
